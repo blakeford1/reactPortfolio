@@ -1,25 +1,26 @@
-import React from 'react';
-import Footer from './Footer';
+import React from "react";
+import Footer from "./Footer";
 
 function About() {
   return (
     <section
-      className='about'
-      id='about'
-      data-aos='fade-right'
-      data-aos-offset='300'
-      data-aos-delay='300'
-      data-aos-easing='ease-in-sine'>
-      <div className='container'>
-        <div className='profile-img'>
+      className="about"
+      id="about"
+      data-aos="fade-right"
+      data-aos-offset="300"
+      data-aos-delay="300"
+      data-aos-easing="ease-in-sine"
+    >
+      <div className="container">
+        <div className="profile-img">
           <img
-            src={'./assets/Images/profile.JPG'}
-            style={{ paddingTop: '50px' }}
-            alt=''
+            src={"./assets/Images/profile.JPG"}
+            style={{ paddingTop: "50px" }}
+            alt=""
           />
         </div>
-        <div className='about-details' style={{ paddingTop: '70px' }}>
-          <div className='about-heading'>
+        <div className="about-details" style={{ paddingTop: "70px" }}>
+          <div className="about-heading">
             <h1>About</h1>
             <h6>Me</h6>
           </div>
@@ -34,18 +35,19 @@ function About() {
             changing and evolving. I want to evolve and change with it.
             Transforming me into the best software developer i can be.
           </p>
-          <div className='social-media'>
-            <ul className='nav-list'>
+          <div className="social-media">
+            <ul className="nav-list">
               <li>
-                <a href='https://github.com/ZachBach' className='icon-link'>
-                  <i className='fab fa-github-square'></i>
+                <a href="https://github.com/blakeford1" className="icon-link">
+                  <i className="fab fa-github-square"></i>
                 </a>
               </li>
               <li>
                 <a
-                  href='https://www.linkedin.com/in/zachary-auerbach-14a1651a3/'
-                  className='icon-link'>
-                  <i className='fab fa-linkedin'></i>
+                  href="https://www.linkedin.com/in/zachary-auerbach-14a1651a3/"
+                  className="icon-link"
+                >
+                  <i className="fab fa-linkedin"></i>
                 </a>
               </li>
             </ul>
