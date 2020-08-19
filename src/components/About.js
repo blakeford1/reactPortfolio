@@ -44,7 +44,7 @@ function About() {
               </li>
               <li>
                 <a
-                  href="https://www.linkedin.com/in/zachary-auerbach-14a1651a3/"
+                  href="https://www.linkedin.com/in/blake-ford1/"
                   className="icon-link"
                 >
                   <i className="fab fa-linkedin"></i>
