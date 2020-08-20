@@ -70,7 +70,7 @@ function Portfolio() {
             </a>
           </div>
           <div className="portfolio-img">
-            <img src="assets/Images/Day-planner.png" alt="" />
+            <img src="/assets/Images/Day-planner.png" alt="" />
           </div>
         </div>
         <div
@@ -80,7 +80,7 @@ function Portfolio() {
           data-aos-easing="ease-in-sine"
         >
           <div className="portfolio-img has-margin-right">
-            <img src="assets/Images/weather-dashboard.png" alt="" />
+            <img src="/assets/Images/weather-dashboard.png" alt="" />
           </div>
           <div className="portfolio-description">
             <h6>Web Application</h6>
@@ -126,7 +126,7 @@ function Portfolio() {
             </a>
           </div>
           <div className="portfolio-img">
-            <img src="assets/Images/Project-One.png" alt="" />
+            <img src="/assets/Images/Project-One.png" alt="" />
           </div>
         </div>
         <div
@@ -136,7 +136,7 @@ function Portfolio() {
           data-aos-easing="ease-in-sine"
         >
           <div className="portfolio-img has-margin-right">
-            <img src="assets/Images/BurgAppImage.png" alt="" />
+            <img src="/assets/Images/BurgAppImage.png" alt="" />
           </div>
           <div className="portfolio-description">
             <h6>MVC Project</h6>

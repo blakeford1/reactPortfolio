@@ -14,7 +14,7 @@ function About() {
       <div className="container">
         <div className="profile-img">
           <img
-            src={"./assets/Images/profile.JPG"}
+            src={"/assets/Images/profile.JPG"}
             style={{ paddingTop: "50px" }}
             alt=""
           />
